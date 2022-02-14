@@ -20,7 +20,7 @@ Using CLI, please launch the jupyter lab.
 Please open the etf_analyzer.ipynb. Restart the kernel.
 
 Please refer to the following link to see how the web application appears when using Voila.
-![Screen Recording](Web_App/etf_analyzer.mp4)
+[Screen Recording](Web_App/etf_analyzer.mp4)
 
 ---
 
